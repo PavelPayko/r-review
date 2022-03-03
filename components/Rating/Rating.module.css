@@ -1,0 +1,13 @@
+.icon {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.icon svg {
+    fill: none;
+    stroke: #7653FC
+}
+
+.filled svg {
+    fill: #7653FC
+}

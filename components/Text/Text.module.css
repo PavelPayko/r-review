@@ -1,0 +1,22 @@
+.text {
+    color: var(--black);
+    font-weight: normal;
+    margin: 0;
+    padding: 20px 0;
+
+}
+
+.s {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.m {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.l {
+    font-size: 18px;
+    line-height: 29px;
+}
